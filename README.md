@@ -16,4 +16,5 @@ lightweight deep learning algorithms performed well, and this method can be used
 banana diseases and abnormalities.
 
 #Please cite our work as : S Nassor et al 2024 IOP Conf. Ser.: Earth Environ. Sci. 1359 012010
+
 DOI 10.1088/1755-1315/1359/1/012010
