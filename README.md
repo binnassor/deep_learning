@@ -1,6 +1,8 @@
 This repository contains notebooks for banana diseases classification using lightweight deep learning. The models was trained on the TensorFlow.
 The dataset used can be downloaded from the following link: https://www.sciencedirect.com/science/article/pii/S2352340923004407
+
 #Please cite our work as : S Nassor et al 2024 IOP Conf. Ser.: Earth Environ. Sci. 1359 012010
+
 DOI 10.1088/1755-1315/1359/1/012010
 
 The following is the abstract of the paper.
