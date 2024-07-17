@@ -1,3 +1,10 @@
+This repository contains notebooks for banana diseases classification using lightweight deep learning. The models was trained on the TensorFlow.
+The dataset used can be downloaded from the following link: https://www.sciencedirect.com/science/article/pii/S2352340923004407
+#Please cite our work as : S Nassor et al 2024 IOP Conf. Ser.: Earth Environ. Sci. 1359 012010
+DOI 10.1088/1755-1315/1359/1/012010
+
+The following is the abstract of the paper.
+  
   Fungal diseases are among the main reasons for low productivity in banana farming.
 Early detection of fungal diseases is essential. One possible approach is using machine vision.
 Due to its high accuracy, deep learning is the most widely used algorithm in machine vision for
@@ -15,6 +22,4 @@ model, 2.51 MB, while squeezeNet has the longest training time, 14.76 minutes. O
 lightweight deep learning algorithms performed well, and this method can be used for other
 banana diseases and abnormalities.
 
-#Please cite our work as : S Nassor et al 2024 IOP Conf. Ser.: Earth Environ. Sci. 1359 012010
 
-DOI 10.1088/1755-1315/1359/1/012010
